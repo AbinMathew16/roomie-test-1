@@ -10,6 +10,7 @@ const OutlineButton = (props) => {
       <button className="outline-button-button button Button">
         {props.button1}
       </button>
+      
     </div>
   )
 }

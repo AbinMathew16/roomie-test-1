@@ -16,10 +16,10 @@ const PlaceCard = (props) => {
       <div className="place-card-container1">
         <span className="place-card-text">{props.pname}</span>
         <span className="place-card-text1">{props.paddress}</span>
-        
         <OutlineButton button1="View/Add"></OutlineButton>
       </div>
     </div>
+    
   )
 }
 
