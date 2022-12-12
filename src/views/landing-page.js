@@ -15,14 +15,11 @@ const LandingPage = (props) => {
       </Helmet>
       <div className="landing-page-top-container">
         <nav data-role="Header" className="landing-page-navbar">
-          <h1>Roomie</h1>
+          
           <div className="landing-page-right-side">
       
           
-          <SolidButton
-            button="Logout"
-            className="landing-page-component"
-          ></SolidButton>
+          
         
           </div>
           <div data-role="BurgerMenu" className="landing-page-burger-menu">
