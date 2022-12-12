@@ -107,8 +107,8 @@ const tLandingPage = (props) => {
         </nav>
         <div className="tlanding-page-hero">
           <div className="tlanding-page-content-container">
-            <h1 className="Heading tlanding-page-text09">Tenant Dashboard</h1>
-            <h2 className="Subheading tlanding-page-subheading">
+            <h1 className="tlanding-page-text09">Tenant Dashboard</h1>
+            <h2 className="tlanding-page-subheading">
               rent or manage properties
             </h2>
             <span className="tlanding-page-text10">
