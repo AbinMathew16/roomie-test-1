@@ -8,7 +8,7 @@
 }
 .landing-page-top-container {
   width: 100%;
-  height: 600px;
+  height: 466px;
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -182,7 +182,14 @@
   align-items: flex-start;
   flex-direction: column;
 }
+.landing-page-subheading{
+  font-size: 3rem;
+}
+.landing-page-text09 {
+  font-size: 5rem;
+}
 .landing-page-text10 {
+  font-size: 1.5rem;
   padding-top: var(--dl-space-space-doubleunit);
   padding-bottom: var(--dl-space-space-doubleunit);
 }

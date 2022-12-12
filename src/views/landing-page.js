@@ -112,8 +112,8 @@ const LandingPage = (props) => {
         </nav>
         <div className="landing-page-hero">
           <div className="landing-page-content-container">
-            <h1 className="Heading landing-page-text09">Owner Dashboard</h1>
-            <h2 className="Subheading landing-page-subheading">
+            <h1 className="landing-page-text09">Owner Dashboard</h1>
+            <h2 className="landing-page-subheading">
               add or manage properties
             </h2>
             <span className="landing-page-text10">

@@ -8,7 +8,7 @@
 }
 .tlanding-page-top-container {
   width: 100%;
-  height: 600px;
+  height: 466px;
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -136,6 +136,7 @@
 .tlanding-page-text08 {
   padding-bottom: var(--dl-space-space-halfunit);
 }
+
 .tlanding-page-icons-container {
   width: 100px;
   display: flex;
@@ -182,7 +183,15 @@
   align-items: flex-start;
   flex-direction: column;
 }
+
+.tlanding-page-text09{
+  font-size: 5rem;
+}
+.tlanding-page-subheading{
+  font-size: 3rem;
+}
 .tlanding-page-text10 {
+  font-size: 1.5rem;
   padding-top: var(--dl-space-space-doubleunit);
   padding-bottom: var(--dl-space-space-doubleunit);
 }
